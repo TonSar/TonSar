@@ -1,0 +1,3 @@
+- 👋 H I’m @TonSar
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning
